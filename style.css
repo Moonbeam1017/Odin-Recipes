@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-title {
+    text-align: center;
+    background-color: brown;
+}
+
+#home {
+    padding-left: 500px;
+}
+
+.home-directory {
+    text-align: left;
+    
+}
+
+
+
+
+

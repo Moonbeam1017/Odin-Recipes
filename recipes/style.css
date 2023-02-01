@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header-text {
+    color: rgb(19, 6, 6);
+}
+
+#morel {
+    padding-left: 400px;
+    width: 600px;
+}
+
+.smaller {
+    background-color: rgba(70, 14, 67, 0.454);
+
+}
+
+.header-text.main {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.388);
+    color: black;
+}
+
+#goulash {
+    padding-left: 510px;
+    width: 400px;
+}
+
+#pierogi {
+    padding-left: 500px;
+    width: 400px;
+}
