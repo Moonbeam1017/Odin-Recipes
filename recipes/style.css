@@ -31,3 +31,9 @@ body {
     padding-left: 500px;
     width: 400px;
 }
+
+button {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
