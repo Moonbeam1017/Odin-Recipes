@@ -1,10 +1,10 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: fantasy;
 }
 
 .main-title {
     text-align: center;
-    background-color: brown;
+    background-color: rgb(183, 107, 15);
 }
 
 #home {

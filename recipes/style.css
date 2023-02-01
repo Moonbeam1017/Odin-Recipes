@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, serif;
+    font-family: fantasy
 }
 
 .header-text {
@@ -12,13 +12,13 @@ body {
 }
 
 .smaller {
-    background-color: rgba(70, 14, 67, 0.454);
+    background-color: rgba(218, 164, 55, 0.682);
 
 }
 
 .header-text.main {
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.388);
+    background-color: rgba(220, 137, 48, 0.867);
     color: black;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 button {
-    background-color: yellow;
+    background-color: rgba(185, 63, 7, 0.855);
     color: black;
     font-weight: bold;
 }
